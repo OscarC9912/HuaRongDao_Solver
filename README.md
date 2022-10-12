@@ -4,7 +4,7 @@
 
 **Author:** Zhonghan Chen (Solo Work)
 
-Please refer to the Wikipedia Page for the mechanism of the game.
+Please refer to the Wikipedia Page for the mechanism of the game. \
 https://zh.m.wikipedia.org/zh-hans/%E8%8F%AF%E5%AE%B9%E9%81%93_(%E9%81%8A%E6%88%B2)
 
 
