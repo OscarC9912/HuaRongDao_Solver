@@ -18,4 +18,4 @@ https://zh.m.wikipedia.org/zh-hans/%E8%8F%AF%E5%AE%B9%E9%81%93_(%E9%81%8A%E6%88%
 `python3 hrd.py  <input file>  <DFS output file>  <A* output file>`
 
 
-[![name](link to image on GH)](http://simonsays-tw.com/web/Klotski/HuaRongDao-1.jpg)
+![name](http://simonsays-tw.com/web/Klotski/HuaRongDao-1.jpg)
